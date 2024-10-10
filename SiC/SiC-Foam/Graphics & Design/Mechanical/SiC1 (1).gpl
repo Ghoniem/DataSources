@@ -1,0 +1,31 @@
+!..    592
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1739 1745 1755 1817 1827 1842 2943 2958 2968 2983 3021 3029 3037 3070 3088 3115 4278 4293 4303 4317 4347 4355 4370 4380 4394 4402 4417 29 iV 4 53 4 8 60 8 13 1099 13 8 13 36 6 6 31 16 25 1161 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+3 iS
+'New GraPL Project' 17 cV 'Adrian' 6 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading:HE:..Style:HS:Centre,Top..Font:HF:TII,18,Navy.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestLines:LI:SolidNibs:NI:MediumScatter:Scatter:Col2.Versus:XV:Col1.Categorise by:CV:New1.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:ln (Relative Density, SiC %)..X-caption font:CX:AR,11,Black..X-range:XR:-4,-1..X-style:XS:Centred..X-tickmarks:XT:1..X-label font:LX:AR,10,Black..Y-caption:YC:ln (Compressive Strength, psi)..Y-caption font:CY:AR,11,Black..Y-range:YR:5,8..Y-style:YS:Centred..Y-tickmarks:YT:1..Y-label font:LY:AR,10,Black.Key@:KE:(none)..Key style:KS:Boxed..Key font:KF:Times,9,Navy..Key frame:KB:262,78,410,173Linegraph:Plot:Col4.Versus:XV:Col3.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 49 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'New1Col1Col2Col3Col4' 5 sV 1 gV
+0 1 iV
+4 1 iV
+'TxtNumNumNumNum' 5 sV 1 gV
+'' 5 sV 1 gV
+109 72 72 72 72 5 iV 1 gV
+'45 ppi 10%, as received45 ppi 10%, as received45 ppi 10%, as received45 ppi 10%, after HT45 ppi 10%, after HT45 ppi 10%, after HT45 ppi 3%, as-received45 ppi 3%, as-received45 ppi 3%, as-received45 ppi 3%, after HT45 ppi 3%, after HT45 ppi 3%, after HT65 ppi 8%, as-received65 ppi 8%, as-received65 ppi 8%, as-received65 ppi 8%, as-received65 ppi 8%, as-receivedpsi=42,000 (RD)^3/2 (Theoretical)psi=42,000 (RD)^3/2 (Theoretical)psi=42,000 (RD)^3/2 (Theoretical)psi=42,000 (RD)^3/2 (Theoretical)' 21 sV Ø2.316707344 Ø2.189525298 Ø2.122193652 Ø2.443889232 Ø2.234413022 Ø2.099749765 Ø3.58104648 Ø3.371570195 Ø3.349126124 Ø3.169575542 Ø3.064836967 Ø2.990023904 Ø2.548627391 Ø2.563589961 Ø2.586033818 Ø2.4962583 Ø2.451370551 0 0 0 0 21 fV 6.537086284 6.994605421 7.198050383 7.127379012 7.349080941 7.384166687 5.950410736 5.943960303 6.239928044 5.498033235 6.107440205 6.327856908 6.788375447 6.872733587 6.999270794 7.000127714 6.941405505 0 0 0 0 21 fV 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Ø3.685785401 Ø2.975061394 Ø2.271819494 Ø1.875311006 21 fV 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5.104400833 6.158997762 7.205072287 7.80881366 21 fV 5 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

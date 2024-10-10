@@ -1,0 +1,31 @@
+!..    590
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1739 1745 1755 1817 1827 1842 2598 2613 2623 2638 2661 2669 2677 2698 2713 2730 3299 3314 3324 3338 3368 3376 3391 3401 3415 3423 3438 29 iV 4 53 4 8 60 8 13 754 13 8 13 21 6 6 19 13 15 567 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+3 iS
+'New GraPL Project' 17 cV 'Adrian' 6 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading:HE:..Style:HS:Centre,Top..Font:HF:TII,18,Navy.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestLines:LI:SolidNibs:NI:MediumLinegraph:Plot:Col2.Versus:XV:Col1.Linegraph style:ST-L:Line.Axes@:AX:Black,1,Solid..X-caption:XC:Volumetric Porosity..X-caption font:CX:AR,12,Black..X-label font:LX:AR,10,Black..X-range:XR:0.72,0.92..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Specific Surface Area [m2/m3] x 10^-3..Y-caption font:CY:AR,12,Black..Y-label font:LY:AR,10,Black..Y-range:YR:0,16..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 32 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'Col1Col2' 2 sV 1 gV
+0 1 iV
+4 1 iV
+'NumNum' 2 sV 1 gV
+'' 2 sV 1 gV
+72 72 2 iV 1 gV
+0.745362504 0.750623176 0.75536656 0.764599335 0.77266095 0.776594966 0.782496809 0.784380487 0.789485656 0.813738797 0.813672151 0.825044126 0.862738616 0.862770353 0.86747719 0.874877063 0.876487814 0.875167494 0.877620886 0.881418431 0.898347858 0.900031596 0.899455539 23 fV 11.79212937 7.709705603 14.72494945 10.03180045 6.291244997 6.497524791 12.83250897 8.680264284 7.93394961 7.333653467 8.763413999 6.522441986 7.631194816 6.950356539 2.663392889 1.03314726 2.73611236 6.888646601 2.600524144 5.734408474 5.130345695 5.267382516 5.539428103 23 fV 2 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

@@ -1,0 +1,31 @@
+!..    591
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1760 1766 1776 1838 1848 1863 2712 2727 2737 2752 2780 2788 2796 2821 2837 2857 5795 5810 5820 5834 5864 5872 5887 5897 5911 5919 5934 29 iV 4 74 4 8 60 8 13 847 13 8 13 26 6 6 23 14 18 2936 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+3 iS
+'New GraPL Project' 17 cV 'Digital Material Solutions' 26 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading@:HE:RE-45-90 Reynolds # = 49.16..Style:HS:Centre,Top..Font:HF:ARB,18,Black.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestLines:LI:SolidNibs:NI:BroadLinegraph:Plot:Col2.Versus:XV:Col1.Categorise by:CV:Type.Linegraph style:ST-L:Line.Axes@:AX:Black,1,Solid..X-caption:XC:Dimensionless Time..X-caption font:CX:ARB,10,Black..X-label font:LX:ARB,8,Black..X-range:XR:(auto)..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Dimensionless Temperature..Y-caption font:CY:ARB,10,Black..Y-label font:LY:ARB,8,Black..Y-range:YR:(auto)..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key@:KE:(none)..Key style:KS:Boxed,Rounded,Shadowed..Key frame:KB:250,110,325,140..Key font:KF:Times,9,Navy' 34 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'TypeCol1Col2' 3 sV 1 gV
+0 1 iV
+4 1 iV
+'TxtNumNum' 3 sV 1 gV
+'' 3 sV 1 gV
+72 72 72 3 iV 1 gV
+'DataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataDataNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumericalNumerical' 94 sV 6.96357223 27.69914851 62.24551263 82.8647306 117.1783753 151.6083733 185.9220069 220.3519961 254.7431936 275.4399704 289.2119623 302.9839536 330.5667226 344.1835575 371.8438999 406.3514452 447.7449798 482.2525185 523.8012055 551.4227484 586.0078605 613.7069813 676.1075815 717.7338403 773.1708642 828.685468 898.0496254 953.6418077 995.3456413 1030.047112 1092.486482 1148.156243 1203.709624 1245.374659 1307.891605 1370.408549 1425.961922 1453.854988 1509.447152 1579.005244 1641.63856 1704.194287 1787.718301 1857.315179 1940.722807 2024.285609 2093.843688 2149.474632 2233.03743 2323.486205 2407.010207 2462.679943 2483.570642 6.96357223 20.65800588 41.2772251 75.74601555 96.28765873 130.6788704 151.2592939 192.5364953 226.9664812 282.0932383 330.4891457 392.7346146 441.0141451 482.5240466 544.6919186 620.9032956 697.0370841 787.1755875 863.3869431 946.71703 1009.117611 1078.481758 1161.773039 1265.993814 1349.323877 1418.881974 1474.551725 1523.141527 1606.626753 1662.218912 1724.774638 1815.223424 1898.747435 1940.490042 2017.011689 2114.38524 2183.982111 2239.690643 2351.030116 2420.66578 2476.37431 94 fV 0.003676375 0.018395488 0.044157337 0.06994641 0.117848178 0.154679985 0.202581752 0.239413557 0.279935348 0.298344443 0.313077164 0.327809884 0.353585338 0.383078004 0.401473483 0.430925307 0.467743487 0.497195306 0.519253536 0.541338994 0.563410835 0.578116318 0.60382368 0.618501929 0.644222901 0.6625639 0.688257635 0.699218661 0.706516934 0.717518807 0.739536168 0.743117224 0.757768231 0.768756486 0.783393877 0.798031267 0.812682273 0.808937825 0.819898846 0.827142652 0.830710091 0.841657496 0.845184086 0.848737908 0.863334448 0.863171054 0.87041486 0.877685898 0.877522504 0.884725461 0.88825205 0.891833104 0.891792256 0.003676375 0.025789073 0.051578145 0.084719968 0.117889013 0.158410807 0.187889865 0.235778019 0.272609824 0.327850722 0.360965311 0.401432643 0.445617184 0.471365404 0.519212693 0.55596279 0.600092849 0.6368157 0.673565775 0.695542293 0.721249639 0.746943368 0.772609863 0.794545525 0.816522034 0.82376584 0.827346895 0.842011516 0.84922809 0.860189111 0.871136517 0.878339474 0.881866063 0.88547435 0.892704539 0.903583864 0.907137685 0.907028756 0.914190865 0.914054703 0.913945774 94 fV 3 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

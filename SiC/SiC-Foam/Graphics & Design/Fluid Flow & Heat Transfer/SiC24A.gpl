@@ -1,0 +1,31 @@
+!..    592
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1760 1766 1776 1838 1848 1863 3113 3128 3138 3153 3181 3189 3197 3222 3238 3258 4961 4976 4986 5000 5030 5038 5053 5063 5077 5085 5100 29 iV 4 74 4 8 60 8 13 1248 13 8 13 26 6 6 23 14 18 1701 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+3 iS
+'New GraPL Project' 17 cV 'Digital Material Solutions' 26 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading@:HE:Plot of the Nusselt number as a function; of the Reynolds number..Style:HS:Centre,Top..Font:HF:AR,18,Black.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestColours:CO:#0000CC,#CB2C27,Teal,Green,#A013A4,Gray,Maroon,Red,FuchsiaLines:LI:SolidMarkers:MA:NodeNibs:NI:MediumScatter:Scatter:Col2.Versus:XV:Col1.Categorise by:CV:Type.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:Re_p..X-caption font:CX:AR,10,Black..X-label font:LX:AR,8,Black..X-range:XR:0,60..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Nu_p..Y-caption font:CY:AR,10,Black..Y-label font:LY:AR,8,Black..Y-range:YR:0,0.2..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key:KE:(none).Key frame@:KB:310,60,410,175..Key style:KS:Boxed,Rounded,Shadowed..Key font:KF:Times,9,NavyLinegraph:Plot:Col2.Versus:XV:Col1.Categorise by:CV:Type.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 52 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'TypeCol1Col2' 3 sV 1 gV
+0 1 bV
+4 1 iV
+'TxtNumNum' 3 sV 1 gV
+'' 3 sV 1 gV
+72 72 72 3 iV 1 gV
+'SiC: 80 ppi, e = 0.915SiC: 80 ppi, e = 0.915SiC: 80 ppi, e = 0.915SiC: 80 ppi, e = 0.915SiC: 100 ppi, e = 0.886SiC: 100 ppi, e = 0.886SiC: 100 ppi, e = 0.886SiC: 100 ppi, e = 0.886SiC: 130 ppi, e = 0.895SiC: 130 ppi, e = 0.895SiC: 130 ppi, e = 0.895SiC: 130 ppi, e = 0.895SiC: 130 ppi, e = 0.881SiC: 130 ppi, e = 0.881SiC: 130 ppi, e = 0.881SiC: 130 ppi, e = 0.881SiC: 130 ppi, e = 0.857SiC: 130 ppi, e = 0.857SiC: 130 ppi, e = 0.857SiC: 130 ppi, e = 0.857Re: 45 ppi, e = 0.898Re: 45 ppi, e = 0.898Re: 45 ppi, e = 0.898Re: 45 ppi, e = 0.898Re: 45 ppi, e 0.892Re: 45 ppi, e 0.892Re: 45 ppi, e 0.892Re: 45 ppi, e 0.892Re: 65 ppi, e = 0.910Re: 65 ppi, e = 0.910Re: 65 ppi, e = 0.910Re: 65 ppi, e = 0.910Re: 65 ppi, e = 0.898Re: 65 ppi, e = 0.898Re: 65 ppi, e = 0.898Re: 65 ppi, e = 0.898' 36 sV 7.461146641 13.98965172 20.2072756 32.48706566 5.906737974 12.27980281 17.40933814 25.181365 6.994824678 12.90156646 17.09845457 25.0259184 6.217619197 11.96891587 18.34198315 23.31607867 6.373059612 11.5025963 15.23316568 22.38343719 15.69949365 27.66840784 36.3730728 57.51295551 11.19171812 20.36270748 30.00001453 46.9430155 7.772023341 15.07772581 21.13989897 30.31089458 5.906738369 10.56995252 16.94301147 25.18135431 36 fV 0.026806788 0.065330532 0.127993634 0.152953504 0.008223111 0.042087319 0.051124846 0.099691252 0.023721618 0.052166341 0.03713714 0.05301411 0.009761155 0.014871843 0.065854325 0.085016275 0.009752073 0.021902026 0.019349738 0.092073705 0.051224753 0.07075609 0.118489877 0.125813741 0.033591751 0.060289524 0.077622782 0.13343431 0.009670334 0.021693132 0.008889253 0.071379787 0.00977932 0.016509791 0.024696559 0.028883808 36 fV 3 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 bV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

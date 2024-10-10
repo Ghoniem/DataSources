@@ -1,0 +1,31 @@
+!..    591
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1760 1766 1776 1838 1848 1863 3019 3034 3044 3059 3087 3095 3103 3128 3144 3164 4103 4118 4128 4142 4172 4180 4195 4205 4219 4227 4242 29 iV 4 74 4 8 60 8 13 1154 13 8 13 26 6 6 23 14 18 937 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+3 iS
+'New GraPL Project' 17 cV 'Digital Material Solutions' 26 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading:HE:Micrograph of 80-ppi, 20 vol% dense SiC foam..Style:HS:Centre,Top..Font:HF:AR,16,Black.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestColours:CO:#0000CC,#CB2C27Lines:LI:SolidMarkers:MA:NodeNibs:NI:MediumScatter:Scatter:Col2.Versus:XV:Col1.Categorise by:CV:Type.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:Bulk Density (g/cc)..X-caption font:CX:AR,10,Black..X-range:XR:(auto)..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Modulus (ksi)..Y-caption font:CY:AR,10,Black..Y-range:YR:(auto)..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key@:KE:(none)..Key style:KS:Boxed,Rounded,Shadowed..Key frame:KB:75,195,148,230..Key font:KF:Times,9,NavyLinegraph:Plot:Col2.Versus:XV:Col1.Categorise by:CV:Type.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 50 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'TypeCol1Col2' 3 sV 1 gV
+0 1 iV
+4 1 iV
+'TxtNumNum' 3 sV 1 gV
+'' 3 sV 1 gV
+72 72 72 3 iV 1 gV
+'CompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensile' 27 sV 1.32034EØ12 0.108768719 0.174140235 0.283066503 0.370333553 0.479496133 0.61047546 0.698136332 0.818561683 0.928117998 1.026962812 1.114938611 1.202914396 1.279784906 1.32EØ12 0.130427935 0.195799449 0.315515937 0.500761485 0.566211769 0.653400039 0.762562602 0.871803914 0.981045197 1.090443973 1.199921474 1.276555709 27 fV 8.80223EØ9 85.47115749 256.41191 512.82303 854.7039562 1367.525054 1965.816147 2735.047015 3675.217897 4615.388537 5726.499054 6837.609412 7948.719669 8803.419826 8.80223EØ9 0.001272399 170.9420107 341.8831053 854.7047246 1111.11527 1367.525853 1880.346614 2478.637295 3076.927846 3846.15836 4700.858788 5299.149024 27 fV 3 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

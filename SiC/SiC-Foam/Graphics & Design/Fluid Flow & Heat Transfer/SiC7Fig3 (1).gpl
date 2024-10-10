@@ -1,0 +1,31 @@
+!..    591
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1739 1745 1755 1817 1827 1842 2886 2901 2911 2926 2959 2967 2975 3004 3021 3044 4039 4054 4064 4078 4108 4116 4131 4141 4155 4163 4178 29 iV 4 53 4 8 60 8 13 1042 13 8 13 31 6 6 27 15 21 993 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+3 iS
+'New GraPL Project' 17 cV 'Adrian' 6 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading@:HE:SiC-100-0.8766..Style:HS:Centre,Top..Font:HF:ARB,18,Navy.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestMarkers:MA:BallScatter:Scatter:Col2.Versus:XV:Col1.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:Superficial Velocity (m/s)..X-caption font:CX:AR,11,Black..X-label font:LX:AR,9,Black..X-range:XR:0,5..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Pressure Gradient (kPa/m)..Y-caption font:CY:AR,11,Black..Y-label font:LY:AR,9,Black..Y-range:YR:0,100..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,NavyLinegraph:Plot:Col4.Versus:XV:Col3.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 46 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'Col1Col2Col3Col4' 4 sV 1 gV
+0 1 iV
+4 1 iV
+'NumNumNumNum' 4 sV 1 gV
+'' 4 sV 1 gV
+72 72 72 72 4 iV 1 gV
+0.784255984 1.290166955 1.632187528 2.006180192 2.347394746 3.127351916 3.306019289 3.467760271 3.710640367 3.93686272 4.163353709 4.276196187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 26 fV 4.819587026 8.993724848 13.07363241 18.62814481 24.16381013 36.74743225 39.76260107 43.73885448 49.21798058 55.17293746 60.64264048 64.10537223 0 0 0 0 0 0 0 0 0 0 0 0 0 0 26 fV 0.016120387 0.130843657 0.326706165 0.506716937 0.65368098 0.784524636 0.96372945 1.110424838 1.371306186 1.501612531 1.762225214 1.908651934 2.152606904 2.347932063 2.542988552 2.673026202 2.834767266 2.964804894 3.127351916 3.370232083 3.548362083 3.807631191 4.066631581 4.422085382 4.777270477 4.987103724 26 fV 0.49467697 0.560638197 2.129475889 2.718382232 3.773696225 4.334333123 6.378999913 7.919566743 10.49660009 12.0277433 15.09002894 17.11584781 20.65396317 23.19330264 26.21789539 28.23429032 32.2105448 34.22693931 36.74743225 42.226559 46.21223471 51.70078306 57.67458462 67.10169519 77.01405886 82.95959245 26 fV 4 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

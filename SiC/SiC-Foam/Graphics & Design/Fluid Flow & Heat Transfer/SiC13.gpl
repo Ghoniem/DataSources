@@ -1,0 +1,31 @@
+!..    591
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1760 1766 1776 1838 1848 1863 3026 3041 3051 3066 3094 3102 3110 3135 3151 3171 3662 3677 3687 3701 3731 3739 3754 3764 3778 3786 3801 29 iV 4 74 4 8 60 8 13 1161 13 8 13 26 6 6 23 14 18 489 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+3 iS
+'New GraPL Project' 17 cV 'Digital Material Solutions' 26 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading:HE:..Style:HS:Centre,Top..Font:HF:TII,18,Navy.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestColours:CO:#0000CC,#CB2C27Markers:MA:Ball,NodeLines:LI:SolidScatter:Scatter:Col2.Versus:XV:Col1.Categorise by:CV:Type.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:Chanel Reynolds Number..X-caption font:CX:AR,11,Black..X-label font:LX:ARB,8,Black..X-range:XR:(auto)..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:StPr^(2/3)..Y-caption font:CY:AR,11,Black..Y-label font:LY:ARB,8,Black..Y-range:YR:(auto)..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key@:KE:(none)..Key style:KS:Boxed,Rounded,Shadowed..Key frame:KB:250,240,310,270..Key font:KF:Times,9,NavyLinegraph:Plot:Col2.Versus:XV:Col1.Categorise by:CV:Type.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 51 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'TypeCol1Col2' 3 sV 1 gV
+0 1 iV
+4 1 iV
+'TxtNumNum' 3 sV 1 gV
+'' 3 sV 1 gV
+72 72 72 3 iV 1 gV
+'Re-65-90Re-65-90Re-65-90Re-65-90Re-65-90Re-65-90Re-65-90Re-45-89Re-45-89Re-45-89Re-45-89Re-45-89Re-45-89Re-45-89' 14 sV 885.3319539 1182.396229 1351.141647 1592.742051 1955.099067 2253.296648 2527.499811 632.7915549 906.471663 1195.624982 1525.379206 1807.057439 2169.675937 2452.051532 14 fV 0.164445513 0.135526344 0.121043141 0.107665312 0.087003367 0.073559405 0.063714986 0.249266273 0.232279451 0.20575053 0.181555172 0.163368501 0.146277756 0.137614288 14 fV 3 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

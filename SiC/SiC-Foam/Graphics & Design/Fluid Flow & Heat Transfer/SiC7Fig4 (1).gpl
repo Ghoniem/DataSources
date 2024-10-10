@@ -1,0 +1,31 @@
+!..    592
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1760 1766 1776 1838 1848 1863 2909 2924 2934 2949 2982 2990 2998 3027 3044 3067 4247 4262 4272 4286 4316 4324 4339 4349 4363 4371 4386 29 iV 4 74 4 8 60 8 13 1044 13 8 13 31 6 6 27 15 21 1178 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+3 iS
+'New GraPL Project' 17 cV 'Digital Material Solutions' 26 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading@:HE:SiC-100-0.8928..Style:HS:Centre,Top..Font:HF:ARB,18,Navy.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestMarkers:MA:BallScatter:Scatter:Col2.Versus:XV:Col1.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:Superficial Velocity (m/s)..X-caption font:CX:AR,11,Black..X-label font:LX:ARB,9,Black..X-range:XR:0,5..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Pressure Gradient (kPa/m)..Y-caption font:CY:AR,11,Black..Y-label font:LY:ARB,9,Black..Y-range:YR:0,100..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,NavyLinegraph:Plot:Col4.Versus:XV:Col3.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 46 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'Col1Col2Col3Col4' 4 sV 1 gV
+0 1 iV
+4 1 iV
+'NumNumNumNum' 4 sV 1 gV
+'' 4 sV 1 gV
+72 72 72 72 4 iV 1 gV
+0.242897433 1.367378494 1.854507814 2.114007612 2.45438421 2.892506892 3.248151234 3.523185633 3.63619956 3.781617558 3.92676862 4.039515592 4.281345008 4.507105825 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 fV 4.486186582 9.959213373 15.55119504 19.08088341 24.10596347 29.66994364 36.63599748 41.62374738 44.10362467 47.08507629 50.54943891 53.51222704 59.44713469 64.8897994 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 fV 0 0.016335508 0.163355082 0.423655619 0.748764387 0.944256685 1.123413475 1.269632347 1.481193249 1.692220344 1.870843321 2.017062182 2.097939008 2.26049337 2.3737743 2.519459331 2.665144353 2.794760767 2.972849868 3.102466261 3.345096598 3.506850132 3.635932644 3.765015141 3.92676862 4.039515592 4.168864971 4.314015999 4.443098444 4.636188263 4.797407847 5.022634807 32 fV 0 0.492243715 0.57623389 2.657194766 5.741305805 6.819113329 7.887588296 9.420310288 10.99035963 13.52623108 15.56052688 17.09324731 18.5886403 20.13069209 22.12765961 24.6262017 27.12474354 29.13104219 32.13115819 34.13745647 38.62363218 41.61441573 44.58653582 47.55865579 50.54943891 53.51222704 56.00143561 59.46579794 62.43791748 67.86191886 71.81852366 78.22701022 32 fV 4 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

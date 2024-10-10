@@ -1,0 +1,31 @@
+!..    591
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1760 1766 1776 1838 1848 1863 2692 2707 2717 2732 2760 2768 2776 2801 2817 2837 5951 5966 5976 5990 6020 6028 6043 6053 6067 6075 6090 29 iV 4 74 4 8 60 8 13 827 13 8 13 26 6 6 23 14 18 3112 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+3 iS
+'New GraPL Project' 17 cV 'Digital Material Solutions' 26 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading@:HE:Modulus..Style:HS:Centre,Top..Font:HF:ARB,18,Navy.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:Curve Fit Only..Style:FS:Left..Font:FF:AR,8,ForestLines:LI:SolidNibs:NI:MediumLinegraph:Plot:Col2.Versus:XV:Col1.Categorise by:CV:Type.Linegraph style:ST-L:Line.Axes@:AX:Black,1,Solid..X-caption:XC:Bulk Density (g/cc)..X-caption font:CX:AR,11,Black..X-label font:LX:ARB,8,Black..X-range:XR:0,1.5..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Modulus (ksi)..Y-caption font:CY:AR,11,Black..Y-label font:LY:ARB,7,Black..Y-range:YR:0,10000..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key@:KE:(none).Key frame:KB:100,205,195,240..Key style:KS:Boxed,Rounded,Shadowed..Key font:KF:Times,9,Navy' 34 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'TypeCol1Col2' 3 sV 1 gV
+0 1 iV
+4 1 iV
+'TxtNumNum' 3 sV 1 gV
+'' 3 sV 1 gV
+72 72 72 3 iV 1 gV
+'CompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveCompressiveTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensileTensile' 90 sV 0.006410139 0.051308517 0.089796755 0.121874853 0.153952952 0.186058453 0.205316272 0.23095683 0.25665219 0.275882608 0.295140428 0.314425649 0.352968689 0.37869145 0.410796949 0.430082168 0.455777527 0.481472885 0.507195642 0.52650826 0.552231016 0.577953772 0.610114064 0.642301753 0.674434642 0.706594928 0.732399868 0.758150011 0.790310289 0.803212755 0.822525357 0.848275492 0.874053021 0.899830547 0.925580675 0.951330802 0.970698185 0.990065567 1.009432947 1.028800326 1.054523051 1.073945216 1.093285197 1.106215043 1.125609812 1.151359926 1.164317165 1.183684538 1.215899573 1.222364495 1.235294338 1.254634316 1.261154026 1.267618947 0.01925782 0.070511533 0.096152091 0.128230188 0.153898148 0.185948844 0.211616804 0.256569985 0.288648083 0.327136321 0.36565196 0.410577738 0.455558319 0.487636416 0.538999733 0.57751537 0.635316224 0.673914059 0.71889463 0.751027522 0.783133013 0.821703439 0.853863724 0.879613867 0.924594421 0.96319223 1.001790034 1.046825365 1.09186069 1.111173282 1.124048343 1.162646129 1.188451035 1.214173757 1.252771536 1.272084121 90 fV 0.0000664689 50.25177598 100.5034039 150.7549578 201.0065007 301.5092879 351.7607035 351.7609114 452.2636216 452.2637678 502.5151643 603.0178101 753.7718341 904.5257587 1005.028461 1105.531078 1206.033725 1306.536363 1457.290243 1608.044082 1758.797943 1909.551795 2110.556907 2361.813246 2512.567083 2713.572147 3015.079658 3216.084677 3417.089697 3567.843432 3718.597173 3919.602153 4170.858355 4422.114544 4623.119492 4824.124431 5075.380583 5326.636726 5577.892861 5829.148989 5979.902667 6331.661224 6532.66611 6733.670991 7035.178307 7236.183183 7487.43927 7738.695355 8040.202652 8140.705084 8341.709945 8542.714806 8743.719665 8844.222094 50.25145438 0.000707665 0.000952269 50.25250441 100.5039894 100.5042664 150.7557357 301.5098581 351.7613551 402.0128865 502.5156555 603.0184479 804.0237205 854.2751496 1005.029164 1105.531844 1306.537083 1557.793459 1758.798593 1909.552423 2010.055001 2211.060065 2412.065098 2613.070104 2814.075137 3065.331376 3316.587597 3618.09504 3919.602463 4070.356164 4170.858629 4422.11479 4723.622155 4874.375841 5125.631974 5276.385647 90 fV 3 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 iV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV

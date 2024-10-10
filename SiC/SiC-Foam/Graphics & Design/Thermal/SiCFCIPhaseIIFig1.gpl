@@ -1,0 +1,31 @@
+!..    592
+'#.èversion#.ëproject#.ëshow#.ëprintlist#.ësession#.ëcids#.ëcnames#.ëcharts#.ëcnotes#.ësids#.ësnames#.ëscols#.ësfix#.ësflgs#.ëstypes#.ësuom#.ëswidth#.ësdata#.ësnotes#.ëxids #.ëxnames#.ëxcalcs#.ëxflgs#.ëxnotes#.ënids#.ënnames#.ëntypes#.ënotes#.wg.toptab' 29 sV 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 29 iV 1678 1684 1739 1745 1755 1817 1827 1842 3070 3085 3095 3110 3138 3146 3154 3179 3195 3215 4598 4613 4623 4637 4667 4675 4690 4700 4714 4722 4737 29 iV 4 53 4 8 60 8 13 1226 13 8 13 26 6 6 23 14 18 1381 13 8 12 28 6 13 8 12 6 13 6 29 iV 4 gV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+3 iS
+'New GraPL Project' 17 cV 'Adrian' 6 cV ' ' 0 sV 3 gV
+0 iS
+100 1 iV
+'Col1+12  // Sample2+2  // etc' 24 sV
+101 1 iV
+'Chart1' 1 sV
+'New Frame:New:0,0,432,324.Style:BS:Wiped,Boxed.Margins (tblr):MG:42,48,36,18.Heading@:HE:Thermal conductivity versus temperature for 65 and 100 ppi; SiC foam at 10% and 20% dense...Style:HS:Centre,Top..Font:HF:AR,14,Black.Subhead:SU:..Font:SF:TI,12.5,Navy.Footnote:FO:..Style:FS:Left..Font:FF:AR,8,ForestColours:CO:#0000CC,#CB2C27,Teal,Green,#A013A4Lines:LI:SolidMarkers:MA:NodeNibs:NI:MediumScatter:Scatter:Col2.Versus:XV:Col1.Categorise by:CV:Type.Scatter style:ST-S:Markers,Halo.Axes@:AX:Black,1,Solid..X-caption:XC:Temperature (C)..X-caption font:CX:AR,10,Black..X-range:XR:0,1600..X-style:XS:Centred..X-tickmarks:XT:(auto)..Y-caption:YC:Thermal Conductivity (W/mK)..Y-caption font:CY:AR,10,Black..Y-range:YR:0,3..Y-style:YS:Centred..Y-tickmarks:YT:(auto).Key:KE:(none).Key frame@:KB:310,60,410,125..Key style:KS:Boxed,Rounded,Shadowed..Key font:KF:Times,9,NavyLinegraph:Plot:Col2.Versus:XV:Col1.Categorise by:CV:Type.Linegraph style:ST-L:Line.Axes:AX:Black,1,Solid..X-caption:XC:..X-range:XR:(auto)..X-style:XS:..X-tickmarks:XT:(auto)..Y-caption:YC:..Y-range:YR:(auto)..Y-style:YS:..Y-tickmarks:YT:(auto).Key:KE:(none)..Key style:KS:..Key font:KF:Times,9,Navy' 50 sV 1 gV
+' ' 0 sV 1 gV
+201 1 iV
+'Sheet1' 1 sV
+'TypeCol1Col2' 3 sV 1 gV
+0 1 bV
+4 1 iV
+'TxtNumNum' 3 sV 1 gV
+'' 3 sV 1 gV
+72 72 72 3 iV 1 gV
+'65 ppi 10% dense65 ppi 10% dense65 ppi 10% dense65 ppi 10% dense65 ppi 10% dense65 ppi 10% dense65 ppi 10% dense65 ppi 10% dense65 ppi 20% dense65 ppi 20% dense65 ppi 20% dense65 ppi 20% dense65 ppi 20% dense65 ppi 20% dense65 ppi 20% dense65 ppi 20% dense100 ppi 10% dense100 ppi 10% dense100 ppi 10% dense100 ppi 10% dense100 ppi 10% dense100 ppi 10% dense100 ppi 10% dense100 ppi 10% dense100 ppi 20% dense100 ppi 20% dense100 ppi 20% dense100 ppi 20% dense100 ppi 20% dense100 ppi 20% dense100 ppi 20% dense100 ppi 20% denseFCI LimitFCI Limit' 34 sV 92.20392172 189.8309973 390.5089242 612.8817539 797.2885661 981.6953133 1204.068103 1388.474753 92.20405124 195.2548341 379.6615194 596.6105921 802.712275 997.9665029 1198.644372 1393.898477 92.20382939 206.102094 401.3563195 602.0342117 802.7122547 981.6952647 1258.305338 1377.627297 86.78038651 200.6785872 385.0853362 591.1869316 797.2886116 992.5427851 1307.118884 1393.898478 0 1600 34 fV 1.399293339 1.275975834 1.195001582 1.083273533 1.379599722 1.555335049 1.971191355 2.448403449 1.896730519 1.682818379 1.391264619 1.1741711 1.273931304 1.660397473 1.760309049 2.161848955 1.097816256 0.98911817 0.983664689 0.782099531 1.168414379 1.16341508 1.336574982 1.453832834 2.183285219 1.788183859 1.78303322 1.475799553 1.681076631 1.766065875 2.450675886 2.659285737 2 2 34 fV 3 gV 1 gV
+' ' 0 sV 1 gV
+301 1 iV
+'Calc1' 1 sV
+'Comment://:Notes' 1 sV 1 gV
+0 1 bV
+' ' 0 sV 1 gV
+401 1 iV
+'Note1' 1 sV
+2 1 iV
+' ' 0 sV 1 gV
+1 1 bV
